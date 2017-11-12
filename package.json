@@ -1,0 +1,6 @@
+{
+    "description": "leetcode solutions",
+    "scripts": {
+        "format": "prettier-standard '**/*.js'"
+    }
+}
